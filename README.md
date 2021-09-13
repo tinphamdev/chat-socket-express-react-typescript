@@ -15,5 +15,3 @@
 ```
   npm run start:client
 ```
-
-refer: Dev.to (https://dev.to/)
